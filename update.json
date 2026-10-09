@@ -1,1 +1,1 @@
-{"latest":"1.1.1","downloadUrl":"https://aka.doubaocdn.com/s/jH8C2wYHEo","updateMsg":"修复logout和closeModal函数重复定义的bug"}
+{"latest":"1.1.1","downloadUrl":"https://aka.doubaocdn.com/s/vBmlBzVSPp","updateMsg":"修复logout和closeModal重复定义bug，支持自动下载安装更新"}
